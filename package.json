@@ -1,0 +1,22 @@
+{
+  "name": "doboz-korona",
+  "version": "1.0.0",
+  "description": "Elhúnyt betegek CSV formátumba rendezése",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microdee/doboz-korona.git"
+  },
+  "author": "microdee",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/microdee/doboz-korona/issues"
+  },
+  "homepage": "https://github.com/microdee/doboz-korona#readme",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}
